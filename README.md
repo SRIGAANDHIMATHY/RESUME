@@ -21,11 +21,12 @@
         DATA BASE MANAGEMENT,ETC.</h3>
     <h3>CURRENTLY I HAVE STARTED TO LEARN FULL STACK WEB DEVLOPMENT
     </h3>
-    <a href="../contact.html">CONTACT ME</a>
+    <h1> CONTACT ME</h1>
+    <h1>PHONE NO:1234567899</h1>
+    <H1>ADDRESS: CHENNAI</H1>
+    <H1>EMAIL ID:sec22cj012@sairamtap.edu.in</H1>
+
     <h2><strong> BE POSITIVE AND STAY STRONG 💪 !!!</strong></h2>
     <h1>THANK YOU 🙂 </h1>
 </body>
 </html>
-<h1>PHONE NO:1234567899</h1>
-<H1>ADDRESS: CHENNAI</H1>
-<H1>EMAIL ID:sec22cj012@sairamtap.edu.in</H1>
